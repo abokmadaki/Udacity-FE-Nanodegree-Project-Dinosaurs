@@ -26,11 +26,7 @@ This application uses Object Oriented JavaScript. I used a class "Dino" as a blu
 
 * Download the repository, extract the zip file and open index.html un your favourite browser.
 
-## Live Demo
-
-[Click here](https://i-shubhamprakash.github.io/Udacity_JavaScript_Nanodegre_Project-1-Dinosaurs/) to open the live app 
 
 ## Author
-
-Shubham Prakash
-[https://shubhamprakash.dev](https://shubhamprakash.dev)
+Abok Istifanus Madaki
+[https://www.github.com/abokmadaki](https://www.github.com/abokmadaki)
